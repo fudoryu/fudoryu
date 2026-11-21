@@ -1,6 +1,6 @@
 ### 不動流 · fudō-ryū
 
 **Software engineer forging data products**\
-Built with care, refined through constant practice
+Crafted with care, built to last
 
 Data Engineering · Machine Learning · AI
