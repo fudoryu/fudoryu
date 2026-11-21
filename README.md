@@ -1,4 +1,4 @@
-### 不動流 · Fudō-ryū
+### 不動流 · fudō-ryū
 
 **Software engineer forging data products**\
 Built with care, refined through constant practice
